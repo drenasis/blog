@@ -110,9 +110,9 @@ html {
     justify-content: right;
     align-items: center;
     color: white;
-    font-size: 20px;
+    font-size: 18px;
     border: none;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Source Code Pro", monospace;
     cursor: pointer;
     text-decoration: none;
 }
@@ -125,9 +125,13 @@ html {
 }
 
 .articleText{
-    font-size: 25px;
-    font-family:Arial, Helvetica, sans-serif;
-    color:white;
+    font-size: 20px;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color:rgb(0, 0, 0);
 }
 
 mark{
