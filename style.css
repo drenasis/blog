@@ -128,3 +128,7 @@ html {
 mark{
     background-color: rgb(77, 235, 24);
 }
+
+.dateText{
+    font-size: 15px;
+}
